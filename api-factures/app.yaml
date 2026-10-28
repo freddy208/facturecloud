@@ -1,0 +1,2 @@
+runtime: python3XX   # remplacer par un runtime Python pris en charge par App Engine
+entrypoint: gunicorn -b :$PORT main:app
