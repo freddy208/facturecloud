@@ -76,3 +76,7 @@ Apres execution de cette requete on peut analyser de la facon suivante :
 - pourquoi ? Cet erreur arrive car il y'a une erreur dans la requete le parametre attends un ```nombre``` mais c'est un ```texte``` qui est passee
 
 ![Test-sante-via-postman](../docs/rapports/appels-api/postman6.png)
+
+## Visualisation des commits
+
+![Test-sante-via-postman](../docs/rapports/appels-api/cap5.png)
