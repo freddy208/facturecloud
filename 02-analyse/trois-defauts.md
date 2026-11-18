@@ -164,4 +164,8 @@ La Quincaillerie Mbarga a signalé une erreur dans le calcul de la TVA sur certa
 
 ## Commit, étiquette et envoi
 
+![capture7](./captures/capture7.png)
 
+![capture7](./captures/capture8.png)
+
+![capture7](./captures/capture8.png)
