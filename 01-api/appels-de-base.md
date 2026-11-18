@@ -80,3 +80,8 @@ Apres execution de cette requete on peut analyser de la facon suivante :
 ## Visualisation des commits
 
 ![Test-sante-via-postman](../docs/rapports/appels-api/cap5.png)
+
+## Membres du groupe
+```bash 
+KEPTUKWA NGOUMYIM Freddy
+TENE Marie-Yanne
