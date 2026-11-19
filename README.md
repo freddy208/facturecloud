@@ -56,7 +56,7 @@ Le dépôt est organisé autour de l'application et des livrables de tests :
 
 Le but du projet n'est pas seulement de tester une application, mais de construire un vrai dossier de validation de logiciel, à travers une démarche structurée, reproductible et argumentée, en vue d'une décision de mise en production.
 
-## TPc2
+## TP2
 
 Le fichier appels-de-base.md contient les resultats et les differents analyses concernant le TP2
 
