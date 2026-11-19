@@ -117,6 +117,15 @@ Les tests au niveau composant n'ont pas détecté ce défaut parce qu'ils vérif
 
 Il s'agit de la **vérification**, car nous contrôlons que l'implémentation de creer_facture respecte la règle de gestion explicitement définie dans les spécifications. L'on ne vérifie pas si la fonctionnalité repond au besoin du client.
 
+## Hebergement sur git
+
+![capture 13](./captures/capture13.png)
+
+
+![capture 14](./captures/capture14.png)
+
+![capture 15](./captures/capture15.png)
+
 ## Auto-evaluation
 
 Cet exercice nous a permis de comprendre en mieux et de mettre en pratique les notions de **test de composants** et  **test d'integration**
