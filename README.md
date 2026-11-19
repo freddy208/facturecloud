@@ -56,6 +56,12 @@ Le dépôt est organisé autour de l'application et des livrables de tests :
 
 Le but du projet n'est pas seulement de tester une application, mais de construire un vrai dossier de validation de logiciel, à travers une démarche structurée, reproductible et argumentée, en vue d'une décision de mise en production.
 
-## TP 2 
+## TP2
 
-Le fichier appels-de-base.md contient les resultats et les differents analyses concernant le TP2 
+Le fichier appels-de-base.md contient les resultats et les differents analyses concernant le TP2
+
+## TP3
+Le fichier 02-analyse/trois-defauts.md contient les analyses et les resultats concernant le TP3
+
+## TP4
+Le fichier 03-niveaux/rapport-s4.md contient les analyses et les resultats concernant le TP4
